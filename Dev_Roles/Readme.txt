@@ -1,3 +1,4 @@
+Note: User login details and managed host address needs to be changed in the playbook and the inventory file. 
 Execution steps:
 Go to project folder and execute following command.
    Ansible-playbook   use-vhost-role.yml 
